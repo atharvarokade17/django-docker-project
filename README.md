@@ -1,5 +1,3 @@
-# Django Docker Projects
-
 This repository contains two related Docker-based projects:
 
 1. project1-base-image — A lightweight, reusable base Docker image using Python 3.12 (Alpine) with Django.
