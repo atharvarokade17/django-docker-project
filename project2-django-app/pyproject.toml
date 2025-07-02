@@ -1,0 +1,6 @@
+[project]
+name = "my-django-app"
+version = "0.1.0"
+dependencies = [
+    "Django>=5.0,<6.0"
+]
